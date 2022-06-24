@@ -1,0 +1,91 @@
+
+
+#login-ec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#login-ec a{
+    text-decoration: none
+}
+
+.logo-ec{
+    text-align: center;
+}
+
+.from-login{
+    min-width: 500px;
+    background: #DFF6FF;
+    border: 1px;
+    padding: 10px;
+}
+
+.logo-ec img{
+    max-block-size: 100px;
+}
+
+.sign{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.sign-a{
+    margin-bottom: 20px;
+}
+
+.continue-ce{
+    text-align: center;
+}
+
+.continue-ce button{
+    font-weight: bold;
+    width: 300px;
+}
+
+.continue-ce h5{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.go-google{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.go-google button{
+    background:#2155CD;
+    color: #DFF6FF;
+    border: none;
+    border-radius: 0.25rem;
+    padding: 7px;
+}
+.go-google img {
+    max-block-size: 20px;
+}
+
+.fc-book{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.fc-book button{
+    background: #2155CD;
+    color: #DFF6FF;
+    border: none;
+    border-radius: 0.25rem;
+    padding: 7px;
+}
+
+.fc-book img{
+    max-block-size: 20px;
+}
+
+.about-help{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.about-help a{
+    margin-left: 23px;
+}

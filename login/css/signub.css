@@ -1,0 +1,101 @@
+.logo-sign{
+    text-align: center;
+}
+
+.logo-sign img{
+    max-block-size: 100px;
+}
+
+#login-ec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#login-ec a{
+    text-decoration: none
+}
+
+.form-sign{
+    min-width: 500px;
+    background: #DFF6FF;
+    border: 1px;
+    padding: 10px;
+}
+
+.create{
+    text-align: center;
+}
+
+.go-ogle{
+    text-align: center;
+    margin: 10px;
+}
+
+.go-ogle button{
+    background: #2155CD;
+    color: #DFF6FF;
+    width: 205px;
+    border: none;
+    border-radius: 0.25rem;
+    padding: 7px;
+}
+
+
+.go-ogle img{
+    max-block-size: 20px;
+}
+
+.fc-book{
+    text-align: center;
+    margin: 10px;
+}
+
+.fc-book button{
+    background: #2155CD;
+    color: #DFF6FF;
+    border: none;
+    border-radius: 0.25rem;
+    padding: 7px;
+}
+
+.fc-book img{
+    max-block-size: 20px;
+}
+
+
+.OR{
+    text-align: center;
+}
+
+.marign_a {
+    margin-bottom: 15px;
+}
+
+
+.sub-ce{
+    color: rgb(62, 39, 189);
+    text-align: center;
+    margin-bottom:10px ;
+}
+
+.sub-ce button ,.cel-su button {
+    font-weight: bold;
+    width: 300px;
+}
+
+
+
+.cel-su{
+    color: rgb(62, 39, 189);
+    text-align: center;
+    margin-bottom:50px ;
+}
+
+.conto{
+    text-align: center;
+}
+
+.conto a{
+    margin-left: 23px;
+}
